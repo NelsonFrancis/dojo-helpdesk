@@ -80,7 +80,9 @@ button:hover {
   color: #111827; 
 background-color: #E5E7EB; 
 }
-
+.mr-auto{
+  margin-right: auto;
+}
 /* form styles */
 form {
  display: block; 
